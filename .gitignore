@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+# Keep local API keys and other environment files out of source control.
+.env*
+.env.local
